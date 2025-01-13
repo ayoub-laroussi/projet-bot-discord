@@ -47,18 +47,5 @@ Bot Discord pour la gestion des ressources et l'animation de la communauté Simp
 ### 9. Annexes
 - [Documents Annexes](./annexes/annexes.md)
 
-## Installation
-
-[Instructions d'installation à venir]
-
-## Utilisation
-
-[Guide d'utilisation à venir]
-
-## Contribution
-
-[Guide de contribution à venir]
-
-## Licence
-
-[Informations sur la licence à venir] 
+## Listes des compétences
+![Liste des compétences](./liste-des-competences/liste-des-competences.png)
